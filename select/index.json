@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "世界は恋に落ちている／CHiCO with HoneyWorks",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2026-01-05T06:01:42.116302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_世界は恋に落ちている_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_世界は恋に落ちている_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_世界は恋に落ちている_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "Pastel*Palettes",
+      "has_synced": true,
+      "path": "select/04_世界は恋に落ちている_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "Sora Tokino Arranged by Yunomi",
+      "has_synced": true,
+      "path": "select/05_世界は恋に落ちている_Sora_Tokino_Arranged_by_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_世界は恋に落ちている_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/07_世界は恋に落ちている_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/08_世界は恋に落ちている_ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO, HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_世界は恋に落ちている_CHiCO,_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている／CHiCO with HoneyWorks",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/10_世界は恋に落ちている_CHiCO_with_HoneyWorks_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/11_世界は恋に落ちている_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている - From THE FIRST TAKE",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/12_世界は恋に落ちている_-_From_THE_FIRST_TAKE_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている - Sekaiwa Koi Ni Ochiteiru",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/13_世界は恋に落ちている_-_Sekaiwa_Koi_Ni_Ochiteiru_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "世界は恋に落ちている (我的世界已坠入爱河)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/14_世界は恋に落ちている_(我的世界已坠入爱河)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO",
+      "has_synced": false,
+      "path": "select/pl_01_世界は恋に落ちている_CHiCO.txt"
+    }
+  ]
+}
